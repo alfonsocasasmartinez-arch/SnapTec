@@ -1,0 +1,5 @@
+{
+  "name": "SnapTec",
+  "description": "Una aplicación minimalista para la gestión y organización de fotografías por proyectos, fases y zonas.",
+  "requestFramePermissions": ["camera"]
+}
